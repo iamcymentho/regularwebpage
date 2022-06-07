@@ -1,0 +1,99 @@
+	
+   .navbar{
+
+							border-bottom: 2px solid blue;
+						}
+
+
+						.mynav{
+
+							margin-left: 650px;
+						}
+                  
+
+               .loolack{
+
+               	margin-left: 90px;
+               }        
+
+
+
+
+   .myheading{
+
+   	    font-family: 'Roboto', sans-serif;
+   }
+
+   .mytext{
+
+   	    font-family: 'Roboto Flex', sans-serif;
+   }
+
+
+	.section{
+
+		
+}
+
+		
+
+
+	.section1{
+
+		
+
+
+
+		background-image: url(img/home.jpg);
+		min-height: 700px;
+		width: 100%;
+
+		background-size: cover;
+		
+		background-position: center;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		
+
+		
+		
+		
+		
+      
+	}
+
+	.section{
+
+		margin-top: 130px;
+	}
+
+
+	.social{
+
+		margin-left: 100px;
+		padding: 80px;
+
+	}
+
+	.overlay{
+
+		background-color: rgba(0, 0, 0, 0.7);
+		height: 700px;
+	}
+
+	.mycard{
+
+		background-color: rgba(0, 0, 255, 0.5);
+	}
+
+	.section2{
+
+		background-color: rgba(0, 0, 0, 0.7);
+	}
+
+
+	.section5{
+
+		background-color: rgba(0, 0, 0, 0.7);
+
+	}
